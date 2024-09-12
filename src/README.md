@@ -10,9 +10,11 @@ This package implements Dijkstra's algorithm.
 
 You can install the package using : 
 
-pip install git+https://github.com/2545046941/Homework_4.git
+pip3 install git+https://github.com/2545046941/Homework_4.git
 
 # Run Dijkstra's algorithm
 
-python3 test.py - path-to-graph-file
+python test.py - path-to-graph-file 
+
+
 
