@@ -10,7 +10,7 @@ This package implements Dijkstra's algorithm.
 
 You can install the package using : 
 
-pip3 install git+https://github.com/2545046941/Homework_4.git
+pip install git+https://github.com/2545046941/Homework_4.git
 
 # Run Dijkstra's algorithm
 
