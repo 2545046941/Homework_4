@@ -16,5 +16,5 @@ pip3 install git+https://github.com/2545046941/Homework_4.git
 
 python test.py - path-to-graph-file 
 
-
+Example: python test.py example1.txt 
 
