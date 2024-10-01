@@ -1,4 +1,4 @@
-from Dennislib import sp
+from HH4Dennis import sp
 import sys
 
 if __name__ == '__main__':

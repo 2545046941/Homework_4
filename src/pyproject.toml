@@ -2,12 +2,9 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[tool.hatch.build.targets.wheel]
-packages = ["src/graphs_Dennis"]
-
 [project]
-name = "Dennislib"
-version = "0.0.2"
+name = "HH4Dennis"
+version = "0.0.1"
 authors = [
   { name="Dennis", email="rzhao@msudenver.edu" },
 ]
