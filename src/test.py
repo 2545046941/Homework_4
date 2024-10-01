@@ -1,4 +1,4 @@
-from graphs_Dennis import sp
+from Dennislib import sp
 import sys
 
 if __name__ == '__main__':
